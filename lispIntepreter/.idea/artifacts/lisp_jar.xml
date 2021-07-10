@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lisp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lisp_jar</output-path>
+    <root id="archive" name="lispIntepreter.jar">
+      <element id="module-output" name="lispIntepreter" />
+    </root>
+  </artifact>
+</component>
